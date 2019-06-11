@@ -7,3 +7,7 @@ categories: Lammps Molecular Dynamics
 
 Brownian dynamics is sometimes useful to simulate stochastic motions.
 It is the high friction limit of Langevin dynamics (ie, massless) that enables us to take much larger time steps.
+
+$$
+M \ddot{X} = - \del U \left(X \right) - gamma \dot{X} + \sqrt{2 \gamma k_{B} T} R\left( t\right)
+$$

@@ -11,3 +11,5 @@ It is the high friction limit of Langevin dynamics (ie, massless) that enables u
 $$
 M \ddot{X} = - \del U \left(X \right) - gamma \dot{X} + \sqrt{2 \gamma k_{B} T} R\left( t\right)
 $$
+
+where M is a mass, X is a position, $\gamma$ is a friction coefficient, $k_{B}$ is Boltzman coefficient.

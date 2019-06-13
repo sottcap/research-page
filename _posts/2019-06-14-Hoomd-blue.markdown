@@ -28,4 +28,4 @@ math-engine: MathJax
 * reduced charge ~ $$ q \sqrt{4 \pi \epsilon_{0} D \epsilon}^{-1} = q \times 0.3419712276$$
 
 ## Hoomd tutorial ##
-[Jupyter nodebook] (https://nbviewer.jupyter.org/github/joaander/hoomd-examples/blob/master/index.ipynb)
+[Jupyter nodebook](https://nbviewer.jupyter.org/github/joaander/hoomd-examples/blob/master/index.ipynb)

@@ -6,21 +6,16 @@ permalink: /about/
 
 ## Hongsuk Kang
 
-### Position
----
 *Guest Researcher* at *National Institute of Standards and Technology*, Gaithersburg, MD, USA
 *Post-doctoral Associate* at *Institute of Bioscience and Biotech Research of UMD*, Rockville, MD, USA
----
 
-
-### Contact me
+### Contacts
 ---
 email: hongsuk.kang.phd at gmail.com
 
 linked-in: [Profile](https://www.linkedin.com/in/hongsuk-kang-882b636b)
 
 google-scholar: [Publications](https://scholar.google.com/citations?hl=en&user=9EiiN0YAAAAJ&view_op=list_works&sortby=pubdate)
-
 ---
 
 ### Summary

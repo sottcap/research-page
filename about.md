@@ -30,8 +30,7 @@ For more detailed information, please refer my [CV]({{ site.url }}/research-page
 
 ## Selected Publication List
 
-Choi, H., __Kang, H__., Chung, K.C., Park, H., "Development and application of a comprehensive machine learning program for predicting molecular biochemical and pharmacological properties"
-Phys. Chem. Chem. Phys. 21 (9), 5189 (2019)
+### Protein Aggregation in disease-related proteins
 
 __Kang, H.__, Luan, B., Zhou, R., “Glassy Dynamics in Mutant Huntingtin Proteins”, J. Chem. Phys., 149, 072333 (2018)
 
@@ -41,15 +40,22 @@ __Kang, H.__, Vazquez, F. X., Zhang, Z., Das, P., Toledo-Sherman, L., Luan, B., 
 
 Zhang, Z., __Kang, H.__, Vazquez, F. X., Toledo-Sherman, L., Luan, B., Zhou, R., “Molecular Mechanism of Stabilizing the Helical Structure of Huntingtin N17 in a Micellar Environment”, J. Phys. Chem. B, 121(18), 4713 (2017)
 
-__Kang, H.__, Yoon, YG., Thirumalai, D. and Hyeon, C., “Glassy dynamics distinguishes chromosome organization across organisms” Phys. Rev. Lett., 115, 198102 (2015)
+### Molecular Crowding in cellular environments
 
-Choi, H., __Kang, H.__, and Park, HS “Scaled Particle Theory and Free-Energy Perturbation Method” J. Chem. Theo. Comp., 11, 4933 (2015)  [co-first author]
+__Kang, H.__, Yoon, YG., Thirumalai, D. and Hyeon, C., “Glassy dynamics distinguishes chromosome organization across organisms” Phys. Rev. Lett., 115, 198102 (2015)
 
 __Kang, H.__, Toan MN., Hyeon, C., and Thirumalai, D, “Unexpected Swelling of Stiff DNA in a Polydisperse Crowded Environment” J. Am. Chem. Soc., 137, 10970 (2015)
 
 __Kang, H.__, Pincus, PA., Hyeon, C., and Thirumalai, D, “Effects of macromolecular crowding on the collapse of biopolymers” Phys. Rev. Lett., 114, 068303 (2015)
 
 __Kang, H.__, Kirkpatrick, TR, and Thirumalai, D., “Manifestation of Random First Order Transition theory in Wigner glasses” Phys. Rev. E, 88, 042308 (2013)
+
+### Chemical Propertity Prediction with AI
+
+Choi, H., __Kang, H__., Chung, K.C., Park, H., "Development and application of a comprehensive machine learning program for predicting molecular biochemical and pharmacological properties"
+Phys. Chem. Chem. Phys. 21 (9), 5189 (2019)
+
+Choi, H., __Kang, H.__, and Park, HS “Scaled Particle Theory and Free-Energy Perturbation Method” J. Chem. Theo. Comp., 11, 4933 (2015)  [co-first author]
 
 Choi, H., __Kang, H.__, and Park, HS “New solvation free energy function comprising intermolecular solvation and intramolecular self-solvation terms” J. Chem. Inf., 5, 8 (2013) 
 

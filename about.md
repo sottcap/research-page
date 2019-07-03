@@ -12,8 +12,10 @@ Currnet Position:
 
 *Post-doctoral Associate* at *Institute of Bioscience and Biotech Research of UMD*
 
-email: hongsuk.kang.phd@gmail.com
+email: hongsuk.kang.phd at gmail.com
+
 linked-in: [Profile](https://www.linkedin.com/in/hongsuk-kang-882b636b)
+
 google-scholar: [Publications](https://scholar.google.com/citations?hl=en&user=9EiiN0YAAAAJ&view_op=list_works&sortby=pubdate)
 
 ---
@@ -32,7 +34,7 @@ For more detailed information, please refer my [CV]({{ site.url }}/research-page
 
 ## Selected Publication List
 
-### Protein Aggregation in disease-related proteins
+*Protein Aggregation in disease-related proteins*
 
 __Kang, H.__, Luan, B., Zhou, R., “Glassy Dynamics in Mutant Huntingtin Proteins”, J. Chem. Phys., 149, 072333 (2018)
 
@@ -42,7 +44,7 @@ __Kang, H.__, Vazquez, F. X., Zhang, Z., Das, P., Toledo-Sherman, L., Luan, B., 
 
 Zhang, Z., __Kang, H.__, Vazquez, F. X., Toledo-Sherman, L., Luan, B., Zhou, R., “Molecular Mechanism of Stabilizing the Helical Structure of Huntingtin N17 in a Micellar Environment”, J. Phys. Chem. B, 121(18), 4713 (2017)
 
-### Molecular Crowding in cellular environments
+*Molecular Crowding in cellular environments*
 
 __Kang, H.__, Yoon, YG., Thirumalai, D. and Hyeon, C., “Glassy dynamics distinguishes chromosome organization across organisms” Phys. Rev. Lett., 115, 198102 (2015)
 
@@ -52,7 +54,7 @@ __Kang, H.__, Pincus, PA., Hyeon, C., and Thirumalai, D, “Effects of macromole
 
 __Kang, H.__, Kirkpatrick, TR, and Thirumalai, D., “Manifestation of Random First Order Transition theory in Wigner glasses” Phys. Rev. E, 88, 042308 (2013)
 
-### Chemical Propertity Prediction with AI
+*Chemical Propertity Prediction with AI*
 
 Choi, H., __Kang, H__., Chung, K.C., Park, H., "Development and application of a comprehensive machine learning program for predicting molecular biochemical and pharmacological properties"
 Phys. Chem. Chem. Phys. 21 (9), 5189 (2019)

@@ -4,15 +4,17 @@ title: About
 permalink: /about/
 ---
 
-# About me
-
-## Hongsuk Kang
+# Hongsuk Kang
 
 Currnet Position:
 
 *Guest Researcher* at *National Institute of Standards and Technology*
 
 *Post-doctoral Associate* at *Institute of Bioscience and Biotech Research of UMD*
+
+email: hongsuk.kang.phd@gmail.com
+linked-in: [Profile](https://www.linkedin.com/in/hongsuk-kang-882b636b)
+google-scholar: [Publications](https://scholar.google.com/citations?hl=en&user=9EiiN0YAAAAJ&view_op=list_works&sortby=pubdate)
 
 ---
 

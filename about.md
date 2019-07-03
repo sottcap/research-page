@@ -6,11 +6,15 @@ permalink: /about/
 
 ## Hongsuk Kang
 
-Currnet Position:
-
+### Position
+---
 *Guest Researcher* at *National Institute of Standards and Technology*, Gaithersburg, MD, USA
 *Post-doctoral Associate* at *Institute of Bioscience and Biotech Research of UMD*, Rockville, MD, USA
+---
 
+
+### Contact me
+---
 email: hongsuk.kang.phd at gmail.com
 
 linked-in: [Profile](https://www.linkedin.com/in/hongsuk-kang-882b636b)
@@ -19,7 +23,7 @@ google-scholar: [Publications](https://scholar.google.com/citations?hl=en&user=9
 
 ---
 
-## Summary
+### Summary
 
 I am a well-trained researcher having skill set fit to biophysics or physical chemistry based modeling and simulation in wide range of fields from academia to industry. 
 
@@ -31,7 +35,7 @@ For more detailed information, please refer my [CV]({{ site.url }}/research-page
 
 ---
 
-## Selected Publication List
+### Selected Publication List
 
 *Protein Aggregation in disease-related proteins*
 

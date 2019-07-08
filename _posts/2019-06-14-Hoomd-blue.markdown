@@ -23,9 +23,15 @@ math-engine: MathJax
 * $$D$$ ~ 6 nm
 * $$\epsilon$$ ~ 0.5 kT
 * charge ~ 1 - 10e
+* $$\gamma$$ 
 
 # In reduced units #
 * reduced charge ~ $$ q \sqrt{4 \pi \epsilon_{0} D \epsilon}^{-1} = q \times 0.3419712276$$
+* reduced bond length
+* reduced mass = 1
+* $$gamma$$ = $$6 \pi \eta a$$, $$\eta = 0.89Pa \cdot s = 0.89 kg/m \cdot s = 890 10^{27}kg/nm \cdot ps$$
+* $$\eta$$ in reduced unit = $$ 890 \times \tau \times D / M$$
+
 
 ## Hoomd tutorial ##
 [Jupyter notebook](https://nbviewer.jupyter.org/github/joaander/hoomd-examples/blob/master/index.ipynb)

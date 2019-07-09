@@ -23,7 +23,7 @@ math-engine: MathJax
 * $$D$$ ~ 2.98 nm
 * $$\epsilon$$ ~ 0.5 kT
 * $$q$$ ~ 1 - 10e
-* $$\gamma$$ ~ 49967.45 $$nm^{2}}/ps$$
+* $$\gamma$$ ~ 49967.45 $$\mathrm{nm^{2}/ps}$$
 * $$M$$ ~ 675.78 Da
 
 # In reduced units #

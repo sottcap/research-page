@@ -22,17 +22,17 @@ math-engine: MathJax
 # In real units #
 * $$D$$ ~ 2.98 nm
 * $$\epsilon$$ ~ 0.5 kT
-* charge ~ 1 - 10e
-* $$\gamma$$ ~ 49967.45 $$nm^{2}}$$
+* $$q$$ ~ 1 - 10e
+* $$\gamma$$ ~ 49967.45 $$nm^{2}}/ps$$
 * $$M$$ ~ 675.78 Da
 
 # In reduced units #
-* reduced charge ~ $$ q \sqrt{4 \pi \epsilon_{0} D \epsilon}^{-1} = q \times 0.3419712276$$
-* reduced bond length
-* reduced mass = 1
-* $$\gamma$$ = $$6 \pi \eta a$$, $$\eta = 0.89Pa \cdot s = 0.89 kg/m \cdot s = 890 \times 10^{27}kg/nm \cdot ps$$
-* $$\eta$$ in reduced unit = $$ 890 \frac{\tau D}{M}$$
-
+* Unit charge ~ $$ q \sqrt{4 \pi \epsilon_{0} D \epsilon}^{-1} = q \times 0.3419712276$$
+* Unit bond length = 2.98 nm
+* Unit mass = 675.78 Da
+* Unit time = 69.59144 ps
+* $$\eta$$ in reduced unit = $$ 890 \frac{\tau D}{M}$$ = 164.53
+* $$\gamma$$ = $$6 \pi \eta a = 9241.9596$$
 
 ## Hoomd tutorial ##
 [Jupyter notebook](https://nbviewer.jupyter.org/github/joaander/hoomd-examples/blob/master/index.ipynb)

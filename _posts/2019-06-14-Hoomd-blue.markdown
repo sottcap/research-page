@@ -30,7 +30,8 @@ math-engine: MathJax
 * Unit charge ~ $$ q \sqrt{4 \pi \epsilon_{0} D \epsilon}^{-1} = q \times 0.3419712276$$
 * Unit bond length = 2.98 nm
 * Unit mass = 675.78 Da
-* Unit time = $$\sqrt{M D^{2}/\epsilon}$$ = 69.59144 ps
+* Masses in resduced unut ~ 1 for H, 14.39 for others
+* Unit time = $$\sqrt{M D^{2}/\epsilon}$$ = 69.59144 ps when $$epsilon=0.5kT=2.057pN\cdot nm$$
 * $$\eta$$ in reduced unit = $$ 890 \frac{\tau D}{M}$$ = 164.53
 * $$\gamma$$ = $$6 \pi \eta a = 9241.9596$$
 

@@ -20,19 +20,15 @@ math-engine: MathJax
 ## In mAbs ##
 
 # In real units #
-* $$D$$ ~ 2.98 nm
-* $$\epsilon$$ ~ 0.5 kT
+* $$D$$ ~ 1.53 nm
+* $$\epsilon$$ ~ 1.0 kT
 * $$q$$ ~ 1 - 10e
-* $$\gamma$$ ~ 49967.45 $$\mathrm{nm^{2}/ps}$$
-* $$M$$ ~ 675.78 Da
+* $$M$$ ~ 1351.56 Da
 
 # In reduced units #
-* Unit charge ~ $$ q \sqrt{4 \pi \epsilon_{0} D \epsilon}^{-1} = q \times 0.3419712276$$
-* Unit bond length = 2.98 nm
-* Unit mass = 675.78 Da
-* Masses in resduced unut ~ 1 for H, 14.39 for others
-* Unit time = $$\sqrt{M D^{2}/\epsilon}$$ = 69.59144 ps when $$epsilon=0.5kT=2.057pN\cdot nm$$
-* $$\eta$$ in reduced unit = $$ 890 \frac{\tau D}{M}$$ = 164.53
+* Unit charge ~ $$ q \sqrt{4 \pi \epsilon_{0} D \epsilon}^{-1} = q \times 0.169
+* Masses in resduced unut ~ 1 for Hinge, 23 for Fv and CH1, and 9 for CH2 and CH3.
+* Unit time = $$\sqrt{M D^{2}/\epsilon}$$ = 35.7 ps when $$epsilon=kT in RT=4.114pN\cdot nm$$
 * $$\gamma$$ = $$6 \pi \eta a = 9241.9596$$
 
 ## Hoomd tutorial ##

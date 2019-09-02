@@ -135,6 +135,31 @@ alsasrc device="mic_sv" ! audio/x-raw,rate=44100,channels=1,width=16 ! volume vo
 ! queue ! audioconvert ! rtpL16pay name=pay1 pt=98
 ~~~~
 
+To address my wife's complaints about noisy audio, I purchased a better microphone (Maono's). 
+It costs $15.99.
+After try-and-errors, I found that it only supports stereo instead of mono so I slightly modified .asound and the launch-script as follows.
+
+~~~~
+pcm.mic_hw {
+    type hw
+    card Elf
+    channels 2
+    format S16_LE
+    rate 44100
+}
+~~~~
+
+~~~~
+rpicamsrc preview=false bitrate=2000000 keyframe-interval=60 vflip=false \ 
+! video/x-h264, framerate=30/1, width=640, height=480 ! h264parse ! rtph264pay name=pay0 pt=96 ! \
+alsasrc device="mic_hw" ! audio/x-raw,rate=44100,channels=2,width=16 ! volume volume=10.0 \
+! queue ! audioconvert ! rtpL16pay name=pay1 pt=98
+~~~~
+
+The launch script is located at /usr/local/bin/rtsp-server-start.sh
+And the service starting at boot was enabled by rc.local with sudo.
+So, ~root/.asoundrc was updated properly for the service.
+
 ### Hardware Assembly ###
 
 The hardware assembly was trivial. Only thing was that there is no elegance way to attach camera on the case.

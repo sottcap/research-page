@@ -33,3 +33,9 @@ math-engine: MathJax
 
 ## Hoomd tutorial ##
 [Jupyter notebook](https://nbviewer.jupyter.org/github/joaander/hoomd-examples/blob/master/index.ipynb)
+
+## Bug fixes and notes ##
+Unfortunately, HOOMD-Blue contains critical bugs that totally mess up the BD simulations running on GPU.
+Most of bugs were fixed by me but one thing should be noted. 
+Tutorial says you can just set bonds types by bond_type = ['bond1', 'bond2'] but it doesn't work because of bugs.
+It can be correct in the future but easier way is to explicitly set the bond_typeid like bond_typeid[bi] = 0 for all bonds.
